@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "キセキ結び",
+  "base_artist": "天音かなた・桐生ココ・角巻わため・常闇トワ・姫森ルーナ",
+  "createdAt": "2026-01-07T06:33:38.934803Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キセキ結び",
+      "artist": "天音かなた",
+      "has_synced": true,
+      "path": "select/01_キセキ結び_天音かなた.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "キセキ結び",
+      "artist": "天音かなた, 桐生ココ, 角巻わため, 常闇トワ, 姫森ルーナ",
+      "has_synced": true,
+      "path": "select/02_キセキ結び_天音かなた,_桐生ココ,_角巻わため,_常闇トワ,_姫森ルーナ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キセキ結び",
+      "artist": "天音かなた・桐生ココ・角巻わため・常闇トワ・姫森ルーナ",
+      "has_synced": false,
+      "path": "select/pl_01_キセキ結び_天音かなた・桐生ココ・角巻わため・常闇トワ・姫森ルーナ.txt"
+    }
+  ]
+}
